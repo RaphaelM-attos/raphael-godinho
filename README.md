@@ -55,7 +55,7 @@ Experienced across oil & gas, energy, and healthcare sectors. Passionate about t
 
 ## 🌐 Languages
 
-🇺🇸 English — Fluent &nbsp;|&nbsp; 🇪🇸 Spanish — Advanced &nbsp;|&nbsp; 🇩🇪 German — Intermediate &nbsp;|&nbsp; 🇷🇺 Russian — Beginner &nbsp;|&nbsp; 🇧🇷 Portuguese — Native
+🇺🇸 English — C1 &nbsp;|&nbsp; 🇪🇸 Spanish — A2+ &nbsp;|&nbsp; 🇩🇪 German — A2 &nbsp;|&nbsp; 🇧🇷 Portuguese — Native
 
 ---
 
