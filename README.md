@@ -55,7 +55,14 @@ Experienced across oil & gas, energy, and healthcare sectors. Passionate about t
 
 ## 🌐 Languages
 
-🇺🇸 English — C1 &nbsp;|&nbsp; 🇪🇸 Spanish — A2+ &nbsp;|&nbsp; 🇩🇪 German — A2 &nbsp;|&nbsp; 🇧🇷 Portuguese — Native
+| Language | Level | Certificate |
+|----------|-------|-------------|
+| 🇺🇸 English | C1 Advanced | goFLUENT C1.1 — Apr 2026 |
+| 🇪🇸 Spanish | A2+ Elementary | goFLUENT A2.4 — Apr 2026 |
+| 🇩🇪 German | A2 Elementary | goFLUENT A2.1 — Apr 2026 |
+| 🇧🇷 Portuguese | Native | — |
+
+> 🏅 English, Spanish and German proficiency certified by **goFLUENT** (CEFR standard), April 2026.
 
 ---
 
