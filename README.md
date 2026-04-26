@@ -26,19 +26,7 @@ Experienced across oil & gas, energy, and healthcare sectors. Passionate about t
 📍 Rio de Janeiro, Brazil &nbsp;|&nbsp; 📧 raphaelmg46@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/raphael-godinho)
 
 ---
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelM-attos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelM-attos&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RaphaelM-attos&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🛠 Skills
 
