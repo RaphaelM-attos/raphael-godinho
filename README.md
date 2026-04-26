@@ -19,6 +19,13 @@
 
 ## 👤 About me
 
+IT professional with **6+ years of experience** in data analysis, software quality assurance, and process automation. Currently working at **DATAPREV** — Brazil's federal technology company — building Python automations and Power BI dashboards that support government decision-making at scale.
+
+Experienced across oil & gas, energy, and healthcare sectors. Passionate about turning manual, repetitive workflows into reliable automated solutions.
+
+📍 Rio de Janeiro, Brazil &nbsp;|&nbsp; 📧 raphaelmg46@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/raphael-godinho)
+
+---
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -30,12 +37,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=RaphaelM-attos&theme=tokyonight&hide_border=true)
 
 </div>
-
-IT professional with **6+ years of experience** in data analysis, software quality assurance, and process automation. Currently working at **DATAPREV** — Brazil's federal technology company — building Python automations and Power BI dashboards that support government decision-making at scale.
-
-Experienced across oil & gas, energy, and healthcare sectors. Passionate about turning manual, repetitive workflows into reliable automated solutions.
-
-📍 Rio de Janeiro, Brazil &nbsp;|&nbsp; 📧 raphaelmg46@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/raphael-godinho)
 
 ---
 
