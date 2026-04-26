@@ -19,6 +19,18 @@
 
 ## 👤 About me
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelM-attos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelM-attos&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RaphaelM-attos&theme=tokyonight&hide_border=true)
+
+</div>
+
 IT professional with **6+ years of experience** in data analysis, software quality assurance, and process automation. Currently working at **DATAPREV** — Brazil's federal technology company — building Python automations and Power BI dashboards that support government decision-making at scale.
 
 Experienced across oil & gas, energy, and healthcare sectors. Passionate about turning manual, repetitive workflows into reliable automated solutions.
