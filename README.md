@@ -63,6 +63,18 @@ Experienced across oil & gas, energy, and healthcare sectors. Passionate about t
 | 🇩🇪 German | A2 Elementary | goFLUENT A2.1 — Apr 2026 |
 | 🇧🇷 Portuguese | Native | — |
 
+---
+
+## 💼 Freelance Services
+
+I'm available for freelance projects on Fiverr:
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/raphaelgodinho)
+
+**Services offered:**
+- Power BI Dashboard Development
+- Python Process Automation
+- Data Analysis & Reporting
 > 🏅 English, Spanish and German proficiency certified by **goFLUENT** (CEFR standard), April 2026.
 
 ---
